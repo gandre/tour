@@ -1,0 +1,35 @@
+/**
+* Tour
+* @authors: gandre, celias
+* @description: 
+*/
+
+.tour {
+	padding: 0;
+}
+
+.tour-content {
+	padding: 10px;
+}
+
+.tour-content__link {
+	font-size: 12px;
+}
+
+.tour-content__opcions {
+	background-color: #f1f1f1;
+	border-top: 1px solid #ccc;
+	clear: both;
+	padding: 10px;
+	overflow: auto;
+	vertical-align: middle;
+}
+
+.tour-content__align-left {
+	text-align: left;
+}
+
+.tour-content__align-right {
+	text-align: right;
+}
+  

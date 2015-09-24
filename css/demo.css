@@ -1,0 +1,55 @@
+/**
+* Demo
+* @authors: gandre, celias
+* @description: 
+*/
+
+/* Treading Chico */
+body {
+	padding: 0;
+	background-color: #f4f4f4;
+}
+
+.wide-content {
+	width: 100%;
+}
+
+.content-area {
+	margin: 0 auto;
+	max-width: 900px;
+	overflow: auto;
+}
+
+.header {
+	background-color: #fff;
+	height: 40px;
+	margin-bottom: 20px;
+	padding: 10px 0;
+}
+
+.logo {
+}
+
+.menu {
+	text-align: right;
+}
+
+.menu__item {
+	display: inline-block;
+	padding: 10px;
+}
+
+.main {
+	background-color: #f4f4f4;
+}
+
+.footer {
+	background-color: #ccc;
+	margin-top: 20px;
+	padding: 20px 0;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+}

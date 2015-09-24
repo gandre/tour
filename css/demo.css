@@ -49,6 +49,12 @@ body {
 	padding: 20px 0;
 }
 
+/* Chico */
+a.ch-btn,
+a:active.ch-btn,
+a:link.ch-btn {
+    color: #fff;
+}
 
 
 @media only screen and (min-width: 768px) {
